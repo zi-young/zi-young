@@ -1,17 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<div align=center>
+// 리드미 내용들
 
-## 🤞 Nice way to meet me
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250) -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:eef4d2,100:fb8883&height=200&section=header&text=Hi!%20I'm%20ji-young!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
+## :sparkling_heart: Nice way to meet me :sparkling_heart:
 
 <p>
-  👋&nbsp; Hi there!  I'm a <strong>full-stack developer</strong>.🚀<br/>
- I graduated from the computer software department and completed the development academy. 💻 <br/>
- I am having fun developing programs that can give pleasure and convenience to others 😁, <br/>
-and I am working hard to continue to develop and grow. 🧗‍♂️
-<br/>
+   Hi there! <img src="./img/wave-hello.gif" height="30"><br/>
+   I'm a <strong>Front end developer</strong> <br/>
+   I'm always open to your contacts so do not hesitate! :stuck_out_tongue_closed_eyes:<br/>
 </p>
-<br/>
 
-## 📞 Contact 📞
+
+
+## Contact 📞
 
 <p>
   <a href="mailto:jypark912@naver.com" target="_blank"><img src="https://img.shields.io/badge/jypark912@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -19,7 +22,7 @@ and I am working hard to continue to develop and grow. 🧗‍♂️
 <br/>
 
 
-## 💪 Skills 💪
+## Skills 💪
 
 #### Platforms & Languages
 
@@ -62,3 +65,4 @@ and I am working hard to continue to develop and grow. 🧗‍♂️
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzi-young&count_bg=%23000000&title_bg=%23003f39&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/zi-young)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
+</div>
