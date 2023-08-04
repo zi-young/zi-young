@@ -1,16 +1,21 @@
 <div align=center>
-// 리드미 내용들
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250) -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:eef4d2,100:fb8883&height=200&section=header&text=Hi!%20I'm%20ji-young!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## :sparkling_heart: Nice way to meet me :sparkling_heart:
 
 <p>
    Hi there! <img src="./img/wave-hello.gif" height="30"><br/>
-   I'm a <strong>Front end developer</strong> <br/>
+   I'm a <strong>Front end developer.</strong> <br/>
    I'm always open to your contacts so do not hesitate! :stuck_out_tongue_closed_eyes:<br/>
 </p>
+<br/>
 
 
 
