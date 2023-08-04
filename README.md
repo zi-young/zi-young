@@ -14,24 +14,16 @@ and I am working hard to continue to develop and grow. 🧗‍♂️
 ## 📞 Contact 📞
 
 <p>
-  <a href="mailto:damadu01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/damadu01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:jypark912@naver.com" target="_blank"><img src="https://img.shields.io/badge/jypark912@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 <br/>
 
-## 💻 DEV's Blog 💻
-
-<p><a href="https://limseongjang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a></p>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=limseongjang&theme=default&postId=136)](https://limseongjang.tistory.com)
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=limseongjang&theme=default&postId=138)](https://limseongjang.tistory.com)
 
 ## 💪 Skills 💪
 
 #### Platforms & Languages
 
 <div>
-  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/>
   <img src="https://img.shields.io/badge/windows10-0078D6?style=for-the-badge&logo=windows10&logoColor=white"/>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
@@ -59,17 +51,14 @@ and I am working hard to continue to develop and grow. 🧗‍♂️
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-<div>
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-</div>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongholim-11&layout=donut)](https://github.com/seongholim-11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-young&layout=donut)](https://github.com/zi-young/github-readme-stats)
 
 <br/>
 <br/>
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongholim-11&count_bg=%23000000&title_bg=%23003f39&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/seongholim-11)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzi-young&count_bg=%23000000&title_bg=%23003f39&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/zi-young)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
