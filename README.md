@@ -7,16 +7,6 @@
 <br/>
 
 
-## :sparkling_heart: Nice way to meet me :sparkling_heart:
-
-<p>
-   Hi there! <img src="./img/wave-hello.gif" height="30" width="30"><br/>
-   I'm a <strong>Front end developer.</strong> <br/>
-   I'm always open to your contacts so do not hesitate! :stuck_out_tongue_closed_eyes:<br/>
-</p>
-<br/>
-
-
 
 ## Contact 📞
 
